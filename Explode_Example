@@ -1,4 +1,3 @@
-
 <?php
 /* A string that doesn't contain the delimiter will simply return a one-length array of the original string. */
 $input1 = "hello";
@@ -7,3 +6,64 @@ var_dump( explode( ',', $input1 ) );
 var_dump( explode( ',', $input2 ) );
 
 ?>
+
+ Dan,
+thanks for being willing to do this. Since I don't know where you are most likely to check, I'll post this in a couple of different places.
+
+Obviously, I don't need any information that would violate your disclosure agreements. I'm just looking for generic answers that students in a first semester of our program can understand. You can see examples of finished videos at the bottom of this list of questions.
+
+Questions:
+Define or describe (your job title).
+
+ 
+
+What are some important skills a person needs for this job?
+
+ 
+
+What did you do in school to prepare for this, and how is the experience at school different from what you experience on the job?
+
+ 
+
+What does your company look for in an entry-level position for developer / programmer?
+
+ 
+
+What should I try to learn while still in school?
+
+ 
+
+In looking for work
+
+-       what advice do you have?
+
+-       should I be trying to do?
+
+-       What kind of mistakes have you seen people make?
+
+ 
+
+What is a typical work environment like?
+
+ 
+
+What sort of groups or professional organizations should I join? What else should I be doing to network?
+
+ 
+
+What are the things you look for in a portfolio / reel / body of work?
+
+ 
+
+What sort of things do you look for on a resume?
+
+ 
+
+Do you see any trends in the college grads / new workers joining your company today?
+
+
+
+finished vids:
+
+https://www.youtube.com/playlist?list=PLJp7UeZLyBZe_b0me9OqoS3Js-fpfjhxQ&feature=view_all
+
